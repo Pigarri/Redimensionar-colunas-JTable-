@@ -1,0 +1,5 @@
+        jTableFat.setAutoResizeMode(JTable.AUTO_RESIZE_ALL_COLUMNS);
+        jTableFat.getColumnModel().getColumn(0).setPreferredWidth(40);
+        jTableFat.getColumnModel().getColumn(1).setPreferredWidth(250);
+        jTableFat.getColumnModel().getColumn(2).setPreferredWidth(20);
+        jTableFat.getColumnModel().getColumn(3).setPreferredWidth(20);
